@@ -1,0 +1,6 @@
+[submodule "arctic-tundra"]
+	path = arctic-tundra
+	url = git@github.com:macton/arctic-tundra.git
+[submodule "arctic-io"]
+	path = arctic-io
+	url = git@github.com:macton/arctic-io.git
